@@ -3,8 +3,16 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
-console.log("Hello");
+var one = "Hello world,"
+var two = "My name is Elijah Johnson"
+var three = "this is kind of confusing but getting better" 
+var string = one + " " + two + " " + three
+console.log(string);
+//console.log("Hello, World!") << (" My name is Elijah Johnson");
+//console.log("This is kind of confusing but getting better");
+console.log(8 + 2);
+console.log ('Quoth the Raven of "Nevermore".')
+console.log("See you on September 5th!")
 
 /*  
 Next, PLAY! 
